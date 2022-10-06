@@ -54,6 +54,6 @@ All individuals interested in this position must submit a (1) detailed CV; (2) a
 
 <h2 style='text-align: left; background-color:#F7F7F7;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Graduate Students</h2> 
 
-Admission to the graduate program at IHPME and <a href='https://www.dlsph.utoronto.ca/students/future-students/' target='_blank'>DLSPH</a> at UofT is very competitive. If you are interested in working under my guidance, I encourage you to <u>contact me before applying</u> and check the <a href='/research'>research</a> page for more details about the scope of our projects. We have open graduate positions in health informatics (under the HSR category) for Fall 2023. 
+We have several open graduate positions in health informatics (under the HSR category) for Fall 2023. Admission to the graduate program at IHPME and <a href='https://www.dlsph.utoronto.ca/students/future-students/' target='_blank'>DLSPH</a> at UofT is very competitive. If you are interested in working under my guidance, I encourage you to <u>contact me before applying</u> and check the <a href='/research'>research</a> page for more details about the scope of our projects.  
 
 The Institute of Health Policy, Management and Evaluation's program information, application <b>process</b> and <b>deadlines</b> for Fall 2023 can be found <a href='https://ihpme.utoronto.ca/community/students/apply/' target='_blank'>here</a>.
