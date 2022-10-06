@@ -17,7 +17,7 @@ Thank you for your interest in joining our team! We are always happy to hear fro
 <!--### Area of Research-->
 We are seeking a highly motivated Postdoctoral Fellow to develop novel machine learning and natural language processing (NLP) methods for health data. This project aims to integrate social and behavioural determinants of health into outcome predictions to improve the accuracy and value of clinical decision-making at both personalized and population levels.
 <details>
-<summary> <h4><u>More about the position</u></h4>
+<summary> <h5><u>More about the position</u></h5>
 </summary>
 
 ### Description of Duties 
