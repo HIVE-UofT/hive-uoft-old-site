@@ -52,7 +52,7 @@ All individuals interested in this position must submit a (1) detailed CV; (2) a
 --------------------------------
 
 
-#### **Graduate Students**
+#### Graduate Students
 
 Admission to the graduate program at IHPME and <a href='https://www.dlsph.utoronto.ca/students/future-students/' target='_blank'>DLSPH</a> at UofT is very competitive. If you are interested in working under my guidance, I encourage you to <u>contact me before applying</u> and check the <a href='/research'>research</a> page for more details about the scope of our projects. We have open graduate positions in health informatics (under the HSR category) for Fall 2023. 
 
