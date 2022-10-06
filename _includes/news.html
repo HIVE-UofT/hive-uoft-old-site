@@ -1,0 +1,15 @@
+
+<br>
+<br>
+<div class="well">
+<h4>News</h4>
+
+{% for article in site.data.news limit:9 %}
+<hr>
+{{ article.date }}
+<p style="font-size:90%;">{{ article.content }}</p>
+{% endfor %}
+
+<!--<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>-->
+    
+    </div>

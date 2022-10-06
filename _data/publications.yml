@@ -1,0 +1,213 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+# filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
+
+- authors: "Zhang, H.G., Dagliati, A., **Shakeri Hossein Abad, Z.** et al."
+  title: "International electronic health record-derived post-acute sequelae profiles of COVID-19 patients."
+  details: "npj Digital Medecine; 5, 81 (2022)."
+  year: 2022
+  image: npj-covid.png
+  imagealt: 
+  pmid:
+  url: "https://www.nature.com/articles/s41746-022-00623-8"
+  pmcid: 
+  openaccess: 
+  doi: 10.1038/s41746-022-00623-8
+  file: j_2022_npj_covid.pdf
+  filetype: "PDF"
+  github: https://github.com/covidclinical/PhaseX.2SqlDataExtraction
+  biorxiv:
+  psyarxiv: 
+  contentshare:
+  preregistered: 
+  opendata: 
+  openmaterials:
+  
+  
+  
+  
+- authors: "Yu F, Endo M, Krishnan R, Pan I, Tsai A, Reis EP, Fonseca EK, Lee HM, **Shakeri Hossein Abad Z**, Ng AY, Langlotz CP."
+  title: "Evaluating Progress in Automatic Chest X-Ray Radiology Report Generation."
+  details: "medRxiv [Preprint] (2022)"
+  year: 2022
+  image: preprint-xray.png
+  imagealt:
+  pmid:
+  url: https://www.medrxiv.org/content/10.1101/2022.08.30.22279318v1
+  pmcid:
+  openaccess:
+  doi:  10.1101/2022.08.30.22279318
+  file: j_2022_p1.pdf
+  filetype:  "PDF"
+  github:
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata:
+  openmaterials:
+  
+  
+  
+- authors: "Hutch, Meghan R., Jiyeon Son, Trang T. Le, Chuan Hong, Xuan Wang, **Shakeri Hossein Abad, Z**, Michele Morris et al. "
+  title: "Neurological Diagnoses in Hospitalized COVID-19 Patients Associated With Adverse Outcomes: A Multinational Cohort Study."
+  details: "SSRN [Preprint] (2022)"
+  year: 2022
+  image: preprint-NeuroViz.png
+  imagealt:
+  pmid:
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4057133
+  pmcid:
+  openaccess:
+  doi:  10.2139/ssrn.4057133
+  file: j_2022_p1.pdf
+  filetype:  "PDF"
+  github:
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata:
+  openmaterials:
+
+
+- authors: "**Shakeri Hossein Abad, Z**, Butler GP, Thompson W, Lee J. "
+  title: "Crowdsourcing for Machine Learning in Public Health Surveillance: Lessons Learned From Amazon Mechanical Turk."
+  details: "Journal of medical Internet research; 24(1):e28749 (2022)."
+  year: 2022
+  image: jmir-amt.png
+  imagealt: 
+  pmid: 35040794
+  url: https://www.jmir.org/2022/1/e28749/
+  pmcid: 
+  openaccess:
+  doi:  10.2196/28749
+  file: j_2022_jmir_amt.pdf
+  filetype:  "PDF"
+  github: https://github.com/data-intelligence-for-health-lab/CrowdSourcing-for-Digital-Public-Health-Surveillance
+  biorxiv:
+  psyarxiv: 
+  contentshare:
+  preregistered: 
+  opendata: 
+  openmaterials:
+  
+  
+  
+- authors: "**Shakeri Hossein Abad, Z**, Butler GP, Thompson W, Lee J."
+  title: "Physical Activity, Sedentary Behavior, and Sleep on Twitter: Multicountry and Fully Labeled Public Data Set for Digital Public Health Surveillance Research."
+  details: " JMIR Public Health Surveill;8(2):e32355 (2022)"
+  year: 2022
+  image: jmir-lpheada.png
+  imagealt:
+  pmid:
+  url: https://publichealth.jmir.org/2022/2/e32355
+  pmcid:
+  openaccess:
+  doi:  10.2196/32355
+  file: j_2022_jmir_lpheada.pdf
+  filetype:  "PDF"
+  github: https://github.com/Z-Shakeri/Lpheada-Labelled-Public-HEAlth-DAtaset
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata: https://zenodo.org/record/4670520
+  openmaterials:
+  
+  
+  
+  
+  
+#------------------------------------------------------------------------------------------
+
+- authors: "**Shakeri Hossein Abad, Z.**, Kline, A., Sultana, M., Noaeen, M. et al."
+  title: "Digital public health surveillance: a systematic scoping review. "
+  details: "npj Digital Medicine. 4, 41 (2021)."
+  year: 2021
+  image: npj-dphs.png
+  imagealt:
+  pmid:
+  url: https://www.nature.com/articles/s41746-021-00407-6
+  pmcid:
+  openaccess:
+  doi:  10.1038/s41746-021-00407-6
+  file: j_2021_npj_dphs.pdf
+  filetype:  "PDF"
+  github:
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata:
+  openmaterials: https://rpubs.com/zshakeri/dphs_dashboard
+
+
+
+
+- authors: "**Shakeri Hossein Abad**, Zahra, Joon Lee. "
+  title: "Detecting Uncertainty of Mortality Prediction Using Confident Learning."
+  details: "43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, (2021)."
+  year: 2021
+  image: embc-cl.png
+  imagealt:
+  pmid:
+  url: https://ieeexplore.ieee.org/abstract/document/9629505
+  pmcid:
+  openaccess:
+  doi:  10.1109/EMBC46164.2021.9629505
+  file:
+  filetype:
+  github:
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata:
+  openmaterials:
+
+
+#------------------------------------------------------------------------------------------
+
+- authors: "**Shakeri Hossein Abad**, Zahra, David M. Maslove, Joon Lee. "
+  title: "Predicting discharge destination of critically ill patients using machine learning."
+  details: "IEEE journal of biomedical and health informatics; 25.3: 827-837 (2020)."
+  year: 2020
+  image: jibh-discharge.png
+  imagealt:
+  pmid:
+  url: https://ieeexplore.ieee.org/abstract/document/9096542
+  pmcid:
+  openaccess:
+  doi:  10.1109/JBHI.2020.2995836
+  file:
+  filetype:
+  github:
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata:
+  openmaterials:
+
+
+- authors: "Kline, A., Kline, T., **Shakeri Hossein Abad, Z.**, Lee, J."
+  title: "Using Item Response Theory for Explainable Machine Learning in Predicting Mortality in the Intensive Care Unit: Case-Based Approach."
+  details: "Journal of Medical Internet Research, 22(9), p.e20268 (2020)."
+  year: 2020
+  image: jmir-irt.png
+  imagealt:
+  pmid:
+  url: https://www.jmir.org/2020/9/e20268/
+  pmcid:
+  openaccess:
+  doi:  10.2196/20268
+  file: j_2020_jmir_irt.pdf
+  filetype: "PDF"
+  github:
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata:
+  openmaterials:
+  
