@@ -12,7 +12,7 @@ permalink: /open positions/
 
 Thank you for your interest in joining our team! We are always happy to hear from motivated students, postdocs, and researchers interested in seeing if HIVE lab might be the right place for them. Please contact <a href="mailto:zahra.shakeri@utoronto.ca" style="color: black;">zahra.shakeri@utoronto.ca</a> for more details of read more about what we do on the <a href='/research'>research</a> page. 
 
-#### **OPEN POSITION-Postdoctoral Fellow in Health Informatics**
+#### OPEN POSITION-Postdoctoral Fellow in Health Informatics
 
 <!--### Area of Research-->
 We are seeking a highly motivated Postdoctoral Fellow to develop novel machine learning and natural language processing (NLP) methods for health data. This project aims to integrate social and behavioural determinants of health into outcome predictions to improve the accuracy and value of clinical decision-making at both personalized and population levels.
