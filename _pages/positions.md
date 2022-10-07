@@ -12,7 +12,7 @@ permalink: /open positions/
 
 Thank you for your interest in joining our team! We are always happy to hear from motivated students, postdocs, and researchers interested in seeing if HIVE lab might be the right place for them. Please contact <a href="mailto:zahra.shakeri@utoronto.ca" style="color: black;">zahra.shakeri@utoronto.ca</a> for more details or read more about what we do on the <a href='/research'>research</a> page. 
 
-<h2 style='text-align: left; background-color:#F7F7F7;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> OPEN POSITION-Postdoctoral Fellow in Health Informatics</h2> 
+<h2 style='text-align: left;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Postdoctoral Fellow in Health Informatics</h2> 
 
 <!--### Area of Research-->
 We are seeking a highly motivated Postdoctoral Fellow to develop novel machine learning and natural language processing (NLP) methods for health data. This project aims to integrate social and behavioural determinants of health into outcome predictions to improve the accuracy and value of clinical decision-making at both personalized and population levels.
@@ -52,7 +52,7 @@ All individuals interested in this position must submit a (1) detailed CV; (2) a
 --------------------------------
 
 
-<h2 style='text-align: left; background-color:#F7F7F7;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Graduate Students</h2> 
+<h2 style='text-align: left;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Graduate Students</h2> 
 
 We have several open graduate positions in health informatics (under the HSR category) for Fall 2023. Admission to the graduate program at IHPME and <a href='https://www.dlsph.utoronto.ca/students/future-students/' target='_blank'>DLSPH</a> at UofT is very competitive. If you are interested in working under my guidance, I encourage you to <u>contact me before applying</u> and check the <a href='/research'>research</a> page for more details about the scope of our projects.  
 
