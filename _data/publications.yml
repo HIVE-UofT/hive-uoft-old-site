@@ -48,8 +48,8 @@
   
   
   
-- authors: "Hutch, Meghan R., Jiyeon Son, Trang T. Le, Chuan Hong, Xuan Wang, **Shakeri Hossein Abad, Z**, Michele Morris et al. "
-  title: "Neurological Diagnoses in Hospitalized COVID-19 Patients Associated With Adverse Outcomes: A Multinational Cohort Study."
+- authors: " Meghan R. Hutch, Jiyeon Son, Trang T. Le, Chuan Hong, Xuan Wang, **Shakeri Hossein Abad, Z**, Michele Morris, et al. "
+  title: "Neurological diagnoses in hospitalized COVID-19 patients associated with adverse outcomes: A multinational cohort study."
   details: "SSRN [Preprint], 2022."
   year: 2022
   image: preprint-NeuroViz.png
@@ -95,7 +95,7 @@
   
 - authors: "**Zahra Shakeri Hossein Abad**, Gregory P Butler, Wendy Thompson, Joon Lee."
   title: "Physical activity, sedentary behavior, and sleep on Twitter: multicountry and fully labeled public dataset for digital public health surveillance research."
-  details: " JMIR Public Health Surveill;8(2):e32355, 2022."
+  details: "JMIR Public Health Surveill;8(2):e32355, 2022."
   year: 2022
   image: jmir-lpheada.png
   imagealt:
@@ -122,7 +122,7 @@
 
 - authors: "**Zahra Shakeri Hossein Abad**, Adrienne Kline, Madeena Sultana, Mohammad Noaeen, Elvira Nurmambetova, Filipe Lucini, Majed Al-Jefri, Joon Lee."
   title: "Digital public health surveillance: a systematic scoping review. "
-  details: "npj Digital Medicine. 4, 41 (2021)."
+  details: "npj Digital Medicine. 4, 41, 2021."
   year: 2021
   image: npj-dphs.png
   imagealt:
@@ -144,9 +144,9 @@
 
 
 
-- authors: "**Shakeri Hossein Abad**, Zahra, Joon Lee. "
-  title: "Detecting Uncertainty of Mortality Prediction Using Confident Learning."
-  details: "43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, (2021)."
+- authors: "**Zahra Shakeri Hossein Abad**, Joon Lee. "
+  title: "Detecting uncertainty of mortality prediction using confident learning."
+  details: "43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). pp. 1719-1722. IEEE, 2021."
   year: 2021
   image: embc-cl.png
   imagealt:
@@ -168,9 +168,9 @@
 
 #------------------------------------------------------------------------------------------
 
-- authors: "**Shakeri Hossein Abad**, Zahra, David M. Maslove, Joon Lee. "
+- authors: "**Zahra Shakeri Hossein Abad**, David M. Maslove, Joon Lee."
   title: "Predicting discharge destination of critically ill patients using machine learning."
-  details: "IEEE journal of biomedical and health informatics; 25.3: 827-837 (2020)."
+  details: "IEEE journal of biomedical and health informatics; 25.3: 827-837, 2020."
   year: 2020
   image: jibh-discharge.png
   imagealt:
@@ -190,9 +190,9 @@
   openmaterials:
 
 
-- authors: "Kline, A., Kline, T., **Shakeri Hossein Abad, Z.**, Lee, J."
-  title: "Using Item Response Theory for Explainable Machine Learning in Predicting Mortality in the Intensive Care Unit: Case-Based Approach."
-  details: "Journal of Medical Internet Research, 22(9), p.e20268 (2020)."
+- authors: "Adrienne Kline, Theresa Kline, **Zahra Shakeri Hossein Abad**, Joon Lee."
+  title: "Using item response theory for explainable machine learning in predicting mortality in the intensive care unit: Case-Based approach."
+  details: "Journal of Medical Internet Research, 22(9), p.e20268, 2020."
   year: 2020
   image: jmir-irt.png
   imagealt:
