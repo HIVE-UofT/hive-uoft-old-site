@@ -1,4 +1,4 @@
-## HIVE Lab Website
+### HIVE Lab Website
 
 This website is powered by Jekyll and uses some Bootstrap and Bootswatch. We will post a tutorial for updating the content of the website soon.
 
