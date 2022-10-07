@@ -1,9 +1,9 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 # filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
 
-- authors: "Zhang, H.G., Dagliati, A., **Shakeri Hossein Abad, Z.** et al."
+- authors: "Harrison G. Zhang, Arianna Dagliati, **Zahra Shakeri Hossein Abad**, Xin Xiong, Clara-Lea Bonzel, Zongqi Xia, Bryce W. Q. Tan, Paul Avillach, Gabriel A. Brat, et al."
   title: "International electronic health record-derived post-acute sequelae profiles of COVID-19 patients."
-  details: "npj Digital Medecine; 5, 81 (2022)."
+  details: "npj Digital Medecine; 5, 81, 2022."
   year: 2022
   image: npj-covid.png
   imagealt: 
@@ -25,9 +25,9 @@
   
   
   
-- authors: "Yu F, Endo M, Krishnan R, Pan I, Tsai A, Reis EP, Fonseca EK, Lee HM, **Shakeri Hossein Abad Z**, Ng AY, Langlotz CP."
-  title: "Evaluating Progress in Automatic Chest X-Ray Radiology Report Generation."
-  details: "medRxiv [Preprint] (2022)"
+- authors: "Feiyang Yu, Mark Endo, Rayan Krishnan, Ian Pan, Andy Tsai, Eduardo Pontes Reis, Eduardo Kaiser Ururahy Nunes Fonseca, Henrique Min Ho Lee, **Zahra Shakeri Hossein Abad**, Andrew Y. Ng, Curtis P. Langlotz, Vasantha Kumar Venugopal, Pranav Rajpurkar"
+  title: "Evaluating progress in automatic chest X-Ray radiology report generation."
+  details: "medRxiv [Preprint], 2022."
   year: 2022
   image: preprint-xray.png
   imagealt:
@@ -50,7 +50,7 @@
   
 - authors: "Hutch, Meghan R., Jiyeon Son, Trang T. Le, Chuan Hong, Xuan Wang, **Shakeri Hossein Abad, Z**, Michele Morris et al. "
   title: "Neurological Diagnoses in Hospitalized COVID-19 Patients Associated With Adverse Outcomes: A Multinational Cohort Study."
-  details: "SSRN [Preprint] (2022)"
+  details: "SSRN [Preprint], 2022."
   year: 2022
   image: preprint-NeuroViz.png
   imagealt:
@@ -70,9 +70,9 @@
   openmaterials:
 
 
-- authors: "**Shakeri Hossein Abad, Z**, Butler GP, Thompson W, Lee J. "
+- authors: "**Zahra Shakeri Hossein Abad**, Gregory P Butler, Wendy Thompson, Joon Lee."
   title: "Crowdsourcing for Machine Learning in Public Health Surveillance: Lessons Learned From Amazon Mechanical Turk."
-  details: "Journal of medical Internet research; 24(1):e28749 (2022)."
+  details: "Journal of medical Internet research; 24(1):e28749, 2022."
   year: 2022
   image: jmir-amt.png
   imagealt: 
@@ -93,9 +93,9 @@
   
   
   
-- authors: "**Shakeri Hossein Abad, Z**, Butler GP, Thompson W, Lee J."
-  title: "Physical Activity, Sedentary Behavior, and Sleep on Twitter: Multicountry and Fully Labeled Public Data Set for Digital Public Health Surveillance Research."
-  details: " JMIR Public Health Surveill;8(2):e32355 (2022)"
+- authors: "**Zahra Shakeri Hossein Abad**, Gregory P Butler, Wendy Thompson, Joon Lee."
+  title: "Physical activity, sedentary behavior, and sleep on Twitter: multicountry and fully labeled public dataset for digital public health surveillance research."
+  details: " JMIR Public Health Surveill;8(2):e32355, 2022."
   year: 2022
   image: jmir-lpheada.png
   imagealt:
@@ -120,7 +120,7 @@
   
 #------------------------------------------------------------------------------------------
 
-- authors: "**Shakeri Hossein Abad, Z.**, Kline, A., Sultana, M., Noaeen, M. et al."
+- authors: "**Zahra Shakeri Hossein Abad**, Adrienne Kline, Madeena Sultana, Mohammad Noaeen, Elvira Nurmambetova, Filipe Lucini, Majed Al-Jefri, Joon Lee."
   title: "Digital public health surveillance: a systematic scoping review. "
   details: "npj Digital Medicine. 4, 41 (2021)."
   year: 2021
