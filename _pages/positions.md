@@ -10,7 +10,7 @@ permalink: /open positions/
 
 <br>
 
-Thank you for your interest in joining our team! We are always happy to hear from motivated students, postdocs, and researchers interested in seeing if HIVE lab might be the right place for them. Please contact <a href="mailto:zahra.shakeri@utoronto.ca" style="color: black;">zahra.shakeri@utoronto.ca</a> for more details of read more about what we do on the <a href='/research'>research</a> page. 
+Thank you for your interest in joining our team! We are always happy to hear from motivated students, postdocs, and researchers interested in seeing if HIVE lab might be the right place for them. Please contact <a href="mailto:zahra.shakeri@utoronto.ca" style="color: black;">zahra.shakeri@utoronto.ca</a> for more details or read more about what we do on the <a href='/research'>research</a> page. 
 
 <h2 style='text-align: left; background-color:#F7F7F7;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> OPEN POSITION-Postdoctoral Fellow in Health Informatics</h2> 
 
