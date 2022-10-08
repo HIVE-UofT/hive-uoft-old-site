@@ -12,7 +12,7 @@ permalink: /contact/
 </div>
 
 ### Email Us
-If you are interested in collaborating with us or would like to learn more about our reseach projects, please feel free to contact us at <a href="mailto:zahra.shakeri@utoronto.ca" style="color: black;">zahra.shakeri@utoronto.ca</a>. If you are interested in joining HIVE Lab, we are always looking for motivated and talented individuals. Open positions are listed on our <a href='Open Positions'>Open Positions</a> page. <b>We welcome applications from all backgrounds</b>.
+If you are interested in collaborating with us or would like to learn more about our reseach projects, please feel free to contact us at <a href="mailto:zahra.shakeri@utoronto.ca" style="color: black;">zahra.shakeri@utoronto.ca</a>. If you are interested in joining HIVE Lab, we are always looking for motivated and talented individuals. Open positions are listed on our <a href='/open_positions'>Open Positions</a> page. <b>We welcome applications from all backgrounds</b>.
 
 ### Visit Us
 HIVE Lab is in the Institute of Health Policy, Management and Evaluation (IHPME), Dalla Lana School of Public Health at the University of Toronto. <br>
