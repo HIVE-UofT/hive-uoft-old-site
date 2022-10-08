@@ -3,7 +3,7 @@ title: "Open Positions"
 layout: default
 excerpt: "HIVE Lab -- Research"
 sitemap: false
-permalink: /open positions/
+permalink: /open_positions/
 ---
 ![]({{ site.url }}{{ site.baseurl }}/images/logo/lab-logo.png){: style="width: 250px; "}
 ![]({{ site.url }}{{ site.baseurl }}/images/logo/dlsph-ihpme.png){: style="width: 550px; "}
