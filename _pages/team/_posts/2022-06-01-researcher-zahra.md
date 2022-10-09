@@ -7,8 +7,8 @@ role: Assistant Professor of Health Informatics
 permalink: 'team/zshakeri'
 social:
     twitter: https://twitter.com/ZahraShakerii
-    linkedin: 
-    google-scholar: 
+    linkedin: https://www.linkedin.com/in/zahra-shakeri-83b355111/
+    google-scholar: https://scholar.google.com/citations?user=RLJVPG4AAAAJ&hl=en
     github: https://github.com/Z-Shakeri
     website:
     orcid: https://orcid.org/my-orcid?orcid=0000-0003-4519-864X
