@@ -4,7 +4,7 @@ category: RA
 title: Shveta Bhasker
 image: Shveta_Bhasker.jpg
 role: Research Assistants
-permalink: 'team/sbhaskar'
+permalink: 'team/sbhasker'
 social:
     twitter:  https://twitter.com/shvetabhasker
     linkedin: https://www.linkedin.com/in/shveta-bhasker
