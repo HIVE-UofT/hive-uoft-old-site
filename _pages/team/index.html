@@ -5,7 +5,7 @@ excerpt: "RT2 Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-<h2>{{page.title}}</h2>
+<h2>{{member.title}}</h2>
 <img src="/images/logo/lab-logo.png"
     style="filter: grayscale(0%); max-width: 270px;"/>
 <!-- Staff -->
@@ -27,6 +27,36 @@ permalink: /team/
             <div class="card-body">
             <h4 class="card-title">{{ member.title }}</h4>
             <p class="card-text">{{ member.role }}</p>
+            <ul class="list-inline list-unstyled">
+                <!-- Twitter -->
+                {% if member.social.twitter %}
+                    <li><a color="black"  target="blank" href="{{member.social.twitter}}"><i class="fab fa-twitter"></i></a></li>
+                {% endif %}
+                <!-- Linkedin -->
+                {% if member.social.linkedin %}
+                    <li><a target="blank" href="{{member.social.linkedin}}"><i class="fab fa-linkedin"></i></a></li>
+                {% endif %}
+                <!-- Github -->
+                {% if member.social.github %}
+                    <li><a target="blank" href="{{member.social.github}}"><i class="fab fa-github"></i></a></li>
+                {% endif %}
+                <!-- Personal Website -->
+                {% if member.social.website %}
+                    <li><a target="blank" href="{{member.social.website}}"><i class="fas fa-globe"></i></a></li>
+                {% endif %}
+                <!-- Google Scholar -->
+                {% if member.social.google-scholar %}
+                    <li><a target="blank" href="{{member.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
+                {% endif %}
+                <!-- Orcid -->
+                {% if member.social.orcid %}
+                    <li><a target="blank" href="{{member.social.orcid}}"><i class="fab fa-orcid"></i></a></li>
+                {% endif %}
+                <!-- Research Gate -->
+                {% if member.social.research-gate %}
+                    <li><a target="blank" href="{{member.social.research-gate}}"><i class="fab fa-researchgate"></i></a></li>
+                {% endif %}
+            </ul>
             </div>
         </div>
     </div>
@@ -100,7 +130,36 @@ permalink: /team/
             <div class="card-body">
             <h4 class="card-title">{{ member.title }}</h4>
             <p class="card-text">{{ member.role }}</p>
-            
+            <ul class="list-inline list-unstyled">
+                <!-- Twitter -->
+                {% if member.social.twitter %}
+                    <li><a color="black"  target="blank" href="{{member.social.twitter}}"><i class="fab fa-twitter"></i></a></li>
+                {% endif %}
+                <!-- Linkedin -->
+                {% if member.social.linkedin %}
+                    <li><a target="blank" href="{{member.social.linkedin}}"><i class="fab fa-linkedin"></i></a></li>
+                {% endif %}
+                <!-- Github -->
+                {% if member.social.github %}
+                    <li><a target="blank" href="{{member.social.github}}"><i class="fab fa-github"></i></a></li>
+                {% endif %}
+                <!-- Personal Website -->
+                {% if member.social.website %}
+                    <li><a target="blank" href="{{member.social.website}}"><i class="fas fa-globe"></i></a></li>
+                {% endif %}
+                <!-- Google Scholar -->
+                {% if member.social.google-scholar %}
+                    <li><a target="blank" href="{{member.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
+                {% endif %}
+                <!-- Orcid -->
+                {% if member.social.orcid %}
+                    <li><a target="blank" href="{{member.social.orcid}}"><i class="fab fa-orcid"></i></a></li>
+                {% endif %}
+                <!-- Research Gate -->
+                {% if member.social.research-gate %}
+                    <li><a target="blank" href="{{member.social.research-gate}}"><i class="fab fa-researchgate"></i></a></li>
+                {% endif %}
+            </ul>
             </div>
         </div>
     </div>
