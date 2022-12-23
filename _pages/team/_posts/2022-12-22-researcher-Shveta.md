@@ -3,7 +3,7 @@ layout: member
 category: RA
 title: Shveta Bhasker
 image: Shveta_Bhasker.jpg
-role: Research Assistants
+role: Research Assistant
 permalink: 'team/sbhasker'
 social:
     twitter:  https://twitter.com/shvetabhasker
