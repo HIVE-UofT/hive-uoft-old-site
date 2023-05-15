@@ -45,6 +45,28 @@
   opendata:
   openmaterials:
   
+
+- authors: "Esther Annan, Moeen Hamid Bukhari, Jesús Treviño, Zahra Shakeri Hossein Abad, Jailos Lubinda, Eduardo A.B. da Silva, Ubydul Haque"
+  title: "The ecological determinants of severe dengue: A Bayesian inferential model."
+  details: "Nature Digital Medecine; 5, 60, 2023."
+  year: 2023
+  image: ei-ecological.jpg
+  imagealt:
+  pmid:
+  url: "https://www.sciencedirect.com/science/article/pii/S1574954123000158?casa_token=K1Gqcu7tqKAAAAAA:rOl1zCPqvlIeAG0TIDHPEG6dZQ3rsymR6FUmn7Htk_NdEqOG41fR03rWEVvGbi9WdMmk3zh3"
+  pmcid:
+  openaccess:
+  doi: 10.1016/j.ecoinf.2023.101986
+  file:
+  filetype: "PDF"
+  github:
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata:
+  openmaterials:
+  
   
 
 - authors: "Harrison G. Zhang, Arianna Dagliati, Zahra Shakeri Hossein Abad, Xin Xiong, Clara-Lea Bonzel, Zongqi Xia, Bryce W. Q. Tan, Paul Avillach, Gabriel A. Brat, et al."
