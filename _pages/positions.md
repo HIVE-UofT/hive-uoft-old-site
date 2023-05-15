@@ -54,6 +54,8 @@ All individuals interested in this position must submit a (1) detailed CV; (2) a
 
 <h2 style='text-align: left;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Graduate Students</h2> 
 
-We have several open graduate positions in health informatics (under the HSR category) for Fall 2023. Admission to the graduate program at IHPME and <a href='https://www.dlsph.utoronto.ca/students/future-students/' target='_blank'>DLSPH</a> at UofT is very competitive. If you are interested in working under my guidance, I encourage you to <u>contact me before applying</u> and check the <a href='/research'>research</a> page for more details about the scope of our projects.  
+Thank you for your interest in HIVE Lab. Please note that we are not accepting applications for new MSc or PhD students for Fall 2023. However, we encourage you to keep an eye on our updates as we will be introducing new graduate positions for **Fall 2024**. As we move forward, we are excited to connect with you and learn more about your interests. Thank you for considering us in your academic journey!
 
-The Institute of Health Policy, Management and Evaluation's program information, application <b>process</b> and <b>deadlines</b> for Fall 2023 can be found <a href='https://ihpme.utoronto.ca/community/students/apply/' target='_blank'>here</a>.
+<!--We have several open graduate positions in health informatics (under the HSR category) for Fall 2023. Admission to the graduate program at IHPME and <a href='https://www.dlsph.utoronto.ca/students/future-students/' target='_blank'>DLSPH</a> at UofT is very competitive. If you are interested in working under my guidance, I encourage you to <u>contact me before applying</u> and check the <a href='/research'>research</a> page for more details about the scope of our projects.  -->
+<!---->
+<!--The Institute of Health Policy, Management and Evaluation's program information, application <b>process</b> and <b>deadlines</b> for Fall 2023 can be found <a href='https://ihpme.utoronto.ca/community/students/apply/' target='_blank'>here</a>.-->
