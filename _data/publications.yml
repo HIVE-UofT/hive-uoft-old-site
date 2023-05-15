@@ -1,7 +1,29 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 # filetype options: "pdf - published version" "pdf - author manuscript version (peer-reviewed & edited)"...
 
-- authors: "Harrison G. Zhang, Arianna Dagliati, **Zahra Shakeri Hossein Abad**, Xin Xiong, Clara-Lea Bonzel, Zongqi Xia, Bryce W. Q. Tan, Paul Avillach, Gabriel A. Brat, et al."
+
+- authors: "Michael Moor, Oishi Banerjee, Zahra Shakeri Hossein Abad, Harlan M. Krumholz, Jure Leskovec, Eric J. Topol & Pranav Rajpurkar"
+  title: "Foundation models for generalist medical artificial intelligence."
+  details: "Nature 616, 259–265, 2023."
+  year: 2023
+  image: nature-gmai.png
+  imagealt:
+  pmid:
+  url: "https://www.nature.com/articles/s41586-023-05881-4"
+  pmcid:
+  openaccess:
+  doi: 10.1038/s41586-023-05881-4
+  file:
+  filetype: "PDF"
+  github:
+  biorxiv:
+  psyarxiv:
+  contentshare:
+  preregistered:
+  opendata:
+  openmaterials:
+
+- authors: "Harrison G. Zhang, Arianna Dagliati, Zahra Shakeri Hossein Abad, Xin Xiong, Clara-Lea Bonzel, Zongqi Xia, Bryce W. Q. Tan, Paul Avillach, Gabriel A. Brat, et al."
   title: "International electronic health record-derived post-acute sequelae profiles of COVID-19 patients."
   details: "npj Digital Medecine; 5, 81, 2022."
   year: 2022
