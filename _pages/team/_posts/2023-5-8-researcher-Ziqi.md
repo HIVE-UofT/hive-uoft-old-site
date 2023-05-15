@@ -1,9 +1,9 @@
 ---
 layout: member
-category: RA
+category: student
 title: Ziqi Shu
 image: ziqi_shu.jpeg
-role: Research Assistant
+role: Computer Science
 permalink: 'team/ziqishu'
 social:
     linkedin: https://www.linkedin.com/in/ziqi-shu-b45a20216

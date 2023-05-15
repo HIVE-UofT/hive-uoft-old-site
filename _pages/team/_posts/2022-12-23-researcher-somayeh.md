@@ -1,9 +1,9 @@
 ---
 layout: member
-category: RA
+category: student
 title: Somayeh Amini
 image: Somayeh_amini.jpeg
-role: Research Assistant
+role: Health Informatics
 permalink: 'team/samini'
 social:
     twitter:  
