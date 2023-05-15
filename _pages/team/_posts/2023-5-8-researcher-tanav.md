@@ -4,7 +4,7 @@ category: RA
 title: Tanav Bajaj
 image: tanav.jpg
 role: Research Assistant
-permalink: 'team/tanavbajaj'
+permalink: 'team/tanav'
 social:
     twitter: 'https://twitter.com/tanav2202'
     linkedin:  'https://www.linkedin.com/in/tanav-bajaj/'
