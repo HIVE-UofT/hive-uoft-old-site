@@ -12,7 +12,7 @@ permalink: /open_positions/
 
 Thank you for your interest in joining our team! We are always happy to hear from motivated students, postdocs, and researchers interested in seeing if HIVE lab might be the right place for them. Please contact <a href="mailto:zahra.shakeri@utoronto.ca" style="color: black;">zahra.shakeri@utoronto.ca</a> for more details or read more about what we do on the <a href='/research'>research</a> page. 
 
-<h2 style='text-align: left;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Postdoctoral Fellow in Health Informatics</h2> 
+<h2 style='text-align: left;  font-weight: 570; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Postdoctoral Fellow in Health Informatics</h2> 
 
 <!--### Area of Research-->
 We are seeking a highly motivated Postdoctoral Fellow to develop novel machine learning and natural language processing (NLP) methods for health data. This project aims to integrate social and behavioural determinants of health into outcome predictions to improve the accuracy and value of clinical decision-making at both personalized and population levels.
@@ -52,10 +52,60 @@ All individuals interested in this position must submit a (1) detailed CV; (2) a
 --------------------------------
 
 
-<h2 style='text-align: left;  font-weight: 530; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Graduate Students</h2> 
+<h2 style='text-align: left;  font-weight: 570; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Graduate Students</h2> 
 
 Thank you for your interest in HIVE Lab. Please note that we are not accepting applications for new MSc or PhD students for Fall 2023. However, we encourage you to keep an eye on our updates as we will be introducing new graduate positions for **Fall 2024**. As we move forward, we are excited to connect with you and learn more about your interests. Thank you for considering us in your academic journey!
 
 <!--We have several open graduate positions in health informatics (under the HSR category) for Fall 2023. Admission to the graduate program at IHPME and <a href='https://www.dlsph.utoronto.ca/students/future-students/' target='_blank'>DLSPH</a> at UofT is very competitive. If you are interested in working under my guidance, I encourage you to <u>contact me before applying</u> and check the <a href='/research'>research</a> page for more details about the scope of our projects.  -->
 <!---->
 <!--The Institute of Health Policy, Management and Evaluation's program information, application <b>process</b> and <b>deadlines</b> for Fall 2023 can be found <a href='https://ihpme.utoronto.ca/community/students/apply/' target='_blank'>here</a>.-->
+
+
+
+
+
+--------------------------------
+
+
+<h2 style='text-align: left;  font-weight: 570; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Volunteers and Practicum Students</h2> 
+
+HIVE Lab at the University of Toronto's Institute of Health Policy, Management and Evaluation is seeking passionate volunteers to join our diverse team. We are a collaborative group of data scientists, epidemiologists, and software developers at the cutting edge of Machine Learning, AI, Information Visualization, and Health Informatics.
+
+As a team, we are driven by our commitment to integrating data from various sources and scales, developing innovative methodologies, and creating open source tools aimed at promoting health at both individual and population levels. We actively seek to foster national and international collaborations to further our mission of health equity.
+
+**Position Qualifications:**
+
+*While proficiency in all these areas is beneficial, it is not a strict requirement. We value a diverse range of experiences and skill sets, and we encourage all interested candidates to apply.*
+
+* A keen interest in health informatics, AI, machine learning, ntural language processing, or information visualization.
+* A degree in computer science, data science, public health, or a related field is preferred but not required.
+* Familiarity with programming languages such as Python, R, and Javascript.
+* Excellent analytical and problem-solving skills.
+* Ability to work both independently and collaboratively within a team.
+* Strong written and verbal communication skills.
+* A passion for health equity and a commitment to contributing to meaningful research.
+* Able to commit to a regular, consistent volunteer schedule.
+
+
+
+--------------------------------
+
+
+<h2 style='text-align: left;  font-weight: 570; font-size: 18px; font-family: Helvetica; color: #067e99; padding-bottom: 7px; padding-top: 7px'> Project-Based Web Developer and UX Designer</h2> 
+
+The HIVE Lab at the University of Toronto is seeking a skilled Web Developer and UX Designer for a project-based role.
+
+**Position Qualifications:**
+
+* Proven experience as a Web Developer and UX Designer, preferably in a research environment.
+* Proficiency in front-end technologies (HTML, CSS, JavaScript), back-end technologies (PHP, Ruby, Python), and UX design tools (Sketch, Figma, Adobe XD).
+* Understanding the basics of server architecture is required. This includes knowledge of how to set up, manage, and deploy servers. Familiarity with cloud services like Amazon Web Services (AWS), Google Cloud, or Microsoft Azure would be advantageous.
+* Familiarity with database systems and knowledge of version control tools like Git.
+* Degree in Computer Science, Design, or a related field is desirable.
+* Strong portfolio showcasing web development projects and UX design skills.
+* Ability to work independently and collaboratively within a team, adhering to deadlines.
+* Excellent problem-solving skills and attention to detail.
+* Strong written and verbal communication skills.
+
+
+Salary for this position is negotiable and will be commensurate with the candidate's experience and skills.
