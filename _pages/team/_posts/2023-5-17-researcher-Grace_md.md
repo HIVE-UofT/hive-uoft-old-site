@@ -2,7 +2,7 @@
 layout: member
 category: RA
 title: Jiayu Grace Liang
-image: grace.jpg
+image: Grace.jpg
 role: Research Assistant
 permalink: 'team/jiayugraceliang'
 social:
