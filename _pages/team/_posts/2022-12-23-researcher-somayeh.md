@@ -1,21 +1,20 @@
 ---
 layout: member
-category: student
+category: RA
 title: Somayeh Amini
 image: Somayeh_amini.jpeg
-role: Health Informatics
+role: Research Assistant
 permalink: 'team/samini'
 social:
     twitter:  
     linkedin: https://www.linkedin.com/in/somayeh-amini-7759754a/
-    google-scholar: 
-    github: 
+    google-scholar: https://scholar.google.com/citations?hl=en&user=N7YHjisAAAAJ
+    github: https://github.com/Aminisom
     website:
     orcid: 
     research-gate: 
 ---
-Somayeh is a first-year Master of Health Informatics (MHI) student at IHPME, Dalla Lana School of Public Health. She holds a PharmD degree and, as a pharmacist, worked in different management and leadership positions in community pharmacies and pharmaceutical companies back in Iran, her home country, during the past few years. 
-She started the MHI program to pursue her dream of becoming an impactful health informatician, harnessing the power of technology to help provide patients with better care and experience. She is passionate about AI/ML deployment in helping cancer patients in the palliative care setting, especially those in hospice/end-of-life care. She believes health informatics could provide her with the necessary knowledge and skills to bridge the gap and improve these patients' care and outcomes, including their survival, quality of life, treatment costs, etc.
+Somayeh is a pharmacist by background and is now enrolled in the Master of Health Informatics (MHI) program at the Institute of Health Policy, Management and Evaluation (IHPME), Dalla Lana School of Public Health, University of Toronto. With a strong passion for data-driven solutions, she actively explores the intersection of artificial intelligence and healthcare to enhance patient care and improve overall healthcare experiences. During her free time, Somayeh works on her coding skills and cherishes precious moments with her family.
 
 <br>
 <br>
