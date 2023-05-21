@@ -69,6 +69,10 @@ Thank you for your interest in HIVE Lab. Please note that we are not accepting a
 
 <h2 style='text-align: left;  font-weight: 570; font-size: 18px; font-family: Helvetica; color: #032254; padding-bottom: 7px; padding-top: 7px'> Volunteers and Practicum Students</h2> 
 
+<h5 style='text-align: left;  font-weight: 100; font-size: 15px; line-height: 130%; font-family: Helvetica; color: #078f6d; padding-bottom: 7px; padding-top: 7px'>We are grateful for your interest in our Summer 2023 positions. However, we have currently reached our capacity for team members for this period. While we may not have summer openings, we do encourage those seeking volunteer Research Assistant or internship opportunities to consider us for the Fall 2023 term and contact us <b>after mid-August</b>. Thank you again for your interest, and we hope to potentially collaborate in the future. </h5>
+
+
+
 HIVE Lab at the University of Toronto's Institute of Health Policy, Management and Evaluation is seeking passionate volunteers to join our diverse team. We are a collaborative group of data scientists, epidemiologists, and software developers at the cutting edge of Machine Learning, AI, Information Visualization, and Health Informatics.
 
 As a team, we are driven by our commitment to integrating data from various sources and scales, developing innovative methodologies, and creating open source tools aimed at promoting health at both individual and population levels. We actively seek to foster national and international collaborations to further our mission of health equity.
