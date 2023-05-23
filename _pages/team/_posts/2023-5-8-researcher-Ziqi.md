@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Ziqi Shu
 image: ziqi_shu.jpeg
-role: Computer Science
+role: Research Student
 permalink: 'team/ziqishu'
 social:
     linkedin: https://www.linkedin.com/in/ziqi-shu-b45a20216

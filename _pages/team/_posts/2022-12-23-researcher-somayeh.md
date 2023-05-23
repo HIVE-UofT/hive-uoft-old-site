@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Somayeh Amini
 image: Somayeh_amini.jpeg
-role: Research Assistant
+role: Practicum Student
 permalink: 'team/samini'
 social:
     twitter:  
