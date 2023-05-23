@@ -1,9 +1,10 @@
 ---
 layout: member
-category: RA
+category: student
 title: Shveta Bhasker
 image: Shveta_Bhasker.jpg
-role: Research Assistant
+role: Research Student
+major: Health Informatics
 permalink: 'team/sbhasker'
 social:
     twitter:  https://twitter.com/shvetabhasker

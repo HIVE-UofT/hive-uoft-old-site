@@ -4,6 +4,7 @@ category: student
 title: Shengjie Zou
 image: tony.jpeg
 role: Research Student
+major: Computer Science
 permalink: '/team/shengjiezou'
 social:
     twitter: 

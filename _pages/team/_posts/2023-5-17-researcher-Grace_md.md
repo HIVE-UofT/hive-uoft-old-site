@@ -1,9 +1,10 @@
 ---
 layout: member
-category: RA
+category: student
 title: Jiayu Grace Liang
 image: Grace.JPG
 role: Research Assistant
+major: Health Informatics
 permalink: 'team/jiayugraceliang'
 social:
     twitter:  

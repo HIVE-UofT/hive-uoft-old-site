@@ -4,6 +4,7 @@ category: student
 title: Somayeh Amini
 image: Somayeh_amini.jpeg
 role: Practicum Student
+major: Health Informatics
 permalink: 'team/samini'
 social:
     twitter:  

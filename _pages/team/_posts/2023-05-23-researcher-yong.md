@@ -4,6 +4,7 @@ category: student
 title: Yong Chen 
 image: yong.png # Updated 
 role: Research Student
+major: Computer Science
 permalink: 'team/yongchen' # Updated
 social:
     twitter: # Not provided

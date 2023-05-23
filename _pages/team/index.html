@@ -32,7 +32,7 @@ permalink: /team/
                 <div class="col-md-6">
                     <div class="card-body">
                         <h4 class="card-title">{{ member.title }}</h4>
-                        <p class="card-text">{{ member.role }}</p>
+                        <p class="card-text">{{ member.role}}</p>
                         <ul class="list-inline list-unstyled">
                             <!-- Twitter -->
                             {% if member.social.twitter %}
@@ -120,7 +120,7 @@ permalink: /team/
                 <div class="col-md-6">
                     <div class="card-body">
                         <h4 class="card-title">{{ member.title }}</h4>
-                        <p class="card-text">{{ member.role }}</p>
+                        <p class="card-text">{{ member.role }} <br><i>{{ member.major}}</i></p>
                         <ul class="list-inline list-unstyled">
                             <!-- Twitter -->
                             {% if member.social.twitter %}
@@ -162,7 +162,7 @@ permalink: /team/
 
 <hr>
 
-<h4><a id="RA"></a>Research Assistants</h4>
+<h4><a id="RA"></a>Interns</h4>
 
 {% assign members = site.posts | where: 'category', 'RA' | sort: 'date' %}
 
@@ -181,7 +181,7 @@ permalink: /team/
                 <div class="col-md-6">
                     <div class="card-body">
                     <h4 class="card-title">{{ member.title }}</h4>
-                    <p class="card-text">{{ member.role }}</p>
+                    <p class="card-text">{{ member.role }} <br><i>{{ member.major}}</i></p>
                     <ul class="list-inline list-unstyled">
                         <!-- Twitter -->
                         {% if member.social.twitter %}

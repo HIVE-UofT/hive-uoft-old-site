@@ -4,6 +4,7 @@ category: student
 title: Ziqi Shu
 image: ziqi_shu.jpeg
 role: Research Student
+major: Computer Science
 permalink: 'team/ziqishu'
 social:
     linkedin: https://www.linkedin.com/in/ziqi-shu-b45a20216
