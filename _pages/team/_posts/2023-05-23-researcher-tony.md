@@ -6,7 +6,7 @@ image: tony.jpeg
 role: Research Student
 permalink: '/team/shengjiezou'
 social:
-    twitter: None
+    twitter: 
     linkedin: https://www.linkedin.com/in/shengjie-zou-413272248/
     google-scholar: https://scholar.google.fr/scholar?hl=en&as_sdt=0%2C5&q=Design+and+research+of+VR+interactive+game+based+on+mirror+elements&btnG=
     github: https://github.com/tonyz961
