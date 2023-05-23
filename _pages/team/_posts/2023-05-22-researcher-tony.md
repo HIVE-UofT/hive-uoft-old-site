@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Shengjie Zou
 image: tony.jpeg
-role: Research Student
+role: Research Assistant
 major: Computer Science
 permalink: '/team/shengjiezou'
 social:

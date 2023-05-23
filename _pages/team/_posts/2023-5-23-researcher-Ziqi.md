@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Ziqi Shu
 image: ziqi_shu.jpeg
-role: Research Student
+role: Research Assistant
 major: Computer Science
 permalink: 'team/ziqishu'
 social:

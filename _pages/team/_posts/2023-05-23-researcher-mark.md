@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Mark Dayomi
 image: mark_dayomi.png
-role: Research Student
+role: Research Assistant
 major: Health Informatics
 permalink: 'team/markdayomi'
 social:

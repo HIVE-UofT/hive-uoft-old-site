@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Yong Chen 
 image: yong.png # Updated 
-role: Research Student
+role: Research Assistant
 major: Computer Science
 permalink: 'team/yongchen' # Updated
 social:

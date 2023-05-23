@@ -3,7 +3,7 @@ layout: member
 category: student
 title: Shveta Bhasker
 image: Shveta_Bhasker.jpg
-role: Research Student
+role: Research Assistant
 major: Health Informatics
 permalink: 'team/sbhasker'
 social:
