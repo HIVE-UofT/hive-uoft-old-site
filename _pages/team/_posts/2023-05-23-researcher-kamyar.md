@@ -17,4 +17,4 @@ social:
 education:
   - Education
 ---
-
+Kamyar is a passionate third-year student studying Computer Engineering. With a deep fascination for Artificial Intelligence, Machine Learning, and Algorithms, Kamyar's academic journey is driven by a desire to explore the frontiers of these fields. Outside of his studies, Kamyar finds joy in music, exploring various genres and playing the piano.
