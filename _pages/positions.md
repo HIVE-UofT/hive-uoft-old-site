@@ -95,21 +95,21 @@ As a team, we are driven by our commitment to integrating data from various sour
 --------------------------------
 
 
-<h2 style='text-align: left;  font-weight: 570; font-size: 18px; font-family: Helvetica; color: #067e99; padding-bottom: 7px; padding-top: 7px'> Project-Based Web Developer and UX Designer</h2> 
-
-The HIVE Lab at the University of Toronto is seeking a skilled Web Developer and UX Designer for a project-based role.
-
-**Position Qualifications:**
-
-* Proven experience as a Web Developer and UX Designer, preferably in a research environment.
-* Proficiency in front-end technologies (HTML, CSS, JavaScript), back-end technologies (PHP, Ruby, Python), and UX design tools (Sketch, Figma, Adobe XD).
-* Understanding the basics of server architecture is required. This includes knowledge of how to set up, manage, and deploy servers. Familiarity with cloud services like Amazon Web Services (AWS), Google Cloud, or Microsoft Azure would be advantageous.
-* Familiarity with database systems and knowledge of version control tools like Git.
-* Degree in Computer Science, Design, or a related field is desirable.
-* Strong portfolio showcasing web development projects and UX design skills.
-* Ability to work independently and collaboratively within a team, adhering to deadlines.
-* Excellent problem-solving skills and attention to detail.
-* Strong written and verbal communication skills.
-
-
-Salary for this position is negotiable and will be commensurate with the candidate's experience and skills.
+<!--<h2 style='text-align: left;  font-weight: 570; font-size: 18px; font-family: Helvetica; color: #067e99; padding-bottom: 7px; padding-top: 7px'> Project-Based Web Developer and UX Designer</h2> -->
+<!---->
+<!--The HIVE Lab at the University of Toronto is seeking a skilled Web Developer and UX Designer for a project-based role.-->
+<!---->
+<!--**Position Qualifications:**-->
+<!---->
+<!--* Proven experience as a Web Developer and UX Designer, preferably in a research environment.-->
+<!--* Proficiency in front-end technologies (HTML, CSS, JavaScript), back-end technologies (PHP, Ruby, Python), and UX design tools (Sketch, Figma, Adobe XD).-->
+<!--* Understanding the basics of server architecture is required. This includes knowledge of how to set up, manage, and deploy servers. Familiarity with cloud services like Amazon Web Services (AWS), Google Cloud, or Microsoft Azure would be advantageous.-->
+<!--* Familiarity with database systems and knowledge of version control tools like Git.-->
+<!--* Degree in Computer Science, Design, or a related field is desirable.-->
+<!--* Strong portfolio showcasing web development projects and UX design skills.-->
+<!--* Ability to work independently and collaboratively within a team, adhering to deadlines.-->
+<!--* Excellent problem-solving skills and attention to detail.-->
+<!--* Strong written and verbal communication skills.-->
+<!---->
+<!---->
+<!--Salary for this position is negotiable and will be commensurate with the candidate's experience and skills.-->
