@@ -4,7 +4,7 @@
 <div class="well">
 <h4>News</h4>
 
-{% for article in site.data.news limit:9 %}
+{% for article in site.data.news limit:3 %}
 <hr>
 {{ article.date }}
 <p style="font-size:90%;">{{ article.content }}</p>
